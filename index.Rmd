@@ -1,7 +1,7 @@
 ---
 title: "Solving a logic grid puzzle with integer programming"
 description: |
-  Modeling a logic puzzle as a constraint satistication problem with OMPR
+  Modeling a logic puzzle as a constraint satisfaction problem with OMPR
 author:
   - name: Mikhail Popov
     url: https://mpopov.com
